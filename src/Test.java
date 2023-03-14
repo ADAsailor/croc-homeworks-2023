@@ -11,7 +11,7 @@ public class Test {
     public static String[] arrayMeasures = new String[] {"B","KB","MB","GB","TB","PB","EB","ZB"};
     /**
      * Обозначение единиц измерения:
-     * "B" - байт;
+     * "B" - байт
      * "KB" - килобайт
      * "MB" - мегабайт
      * "GB" - гигабайт
